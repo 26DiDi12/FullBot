@@ -1,0 +1,34 @@
+{
+  "name": "exapmle_rpc",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "run": "nodemon main.js"
+  },
+  "author": "DiDi",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^6.0.8",
+    "axios": "^0.27.2",
+    "canvas": "^2.8.0",
+    "discord-rpc": "^4.0.1",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.3.1",
+    "genius-lyrics": "^4.3.8",
+    "get-content-type": "^0.2.0",
+    "image-search-engine": "^1.2.1",
+    "image-search-google": "^1.3.0",
+    "nerdamer": "^1.1.12",
+    "nodemon": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/26DiDi12/FullBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/26DiDi12/FullBot/issues"
+  },
+  "homepage": "https://github.com/26DiDi12/FullBot#readme"
+}
